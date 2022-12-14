@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArraysJava.iml" filepath="$PROJECT_DIR$/ArraysJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysExample/arraysExample.iml" filepath="$PROJECT_DIR$/arraysExample/arraysExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
     </modules>
   </component>
 </project>
