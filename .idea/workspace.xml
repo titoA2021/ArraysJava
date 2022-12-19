@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba775e18-1810-4f84-9951-60051838390c" name="Changes" comment="excercise1Arrays">
-      <change afterPath="$PROJECT_DIR$/excercise2/excercise2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excercise2/src/Main.java" afterDir="false" />
+    <list default="true" id="ba775e18-1810-4f84-9951-60051838390c" name="Changes" comment="excercise2Arrays">
+      <change afterPath="$PROJECT_DIR$/excercise3/excercise3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excercise3/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671026040174</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="excercise2Arrays">
+      <created>1671419561864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671419561864</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
     <MESSAGE value="exampleArrays" />
     <MESSAGE value="forEachJava" />
     <MESSAGE value="excercise1Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise1Arrays" />
+    <MESSAGE value="excercise2Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="excercise2Arrays" />
   </component>
 </project>
