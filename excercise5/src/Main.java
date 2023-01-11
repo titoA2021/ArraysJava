@@ -8,11 +8,11 @@ public class Main {
         a-1, b-1, a-2, b-2,...
          */
         Scanner e = new Scanner(System.in);
-         int a[], b[], c[];
+         int[] a, b;
 
-         a = new int[10];
+        a = new int[10];
          b = new int[10];
-         c = new int[a.length+b.length];
+        int[] c = new int[a.length + b.length];
 
          for(int i=0; i < a.length; i++){
              System.out.println("Type the digit " + (i+1) + ", for vector a: ");
@@ -31,8 +31,8 @@ public class Main {
              j++;
          }
         System.out.println("\nThe third vector is: ");
-        for(int i=0; i< c.length;i++){
-            System.out.println(c[i] + " ");
+        for (int k : c) {
+            System.out.println(k + " ");
         }
         System.out.println();
     }
