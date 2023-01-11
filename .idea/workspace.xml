@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba775e18-1810-4f84-9951-60051838390c" name="Changes" comment="excercise4Arrays">
-      <change afterPath="$PROJECT_DIR$/excercise5/src/Main.java" afterDir="false" />
+    <list default="true" id="ba775e18-1810-4f84-9951-60051838390c" name="Changes" comment="exercise5Arrays">
+      <change afterPath="$PROJECT_DIR$/exercise6/exercise6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -101,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673311081237</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="exercise5Arrays">
+      <created>1673400838230</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673400838230</updated>
+    </task>
+    <task id="LOCAL-00010" summary="exercise5Arrays">
+      <created>1673400959465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673400959465</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +138,8 @@
     <MESSAGE value="excercise2Arrays" />
     <MESSAGE value="excercise3Arrays" />
     <MESSAGE value="excercise4Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise4Arrays" />
+    <MESSAGE value="excercise5Arrays" />
+    <MESSAGE value="exercise5Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise5Arrays" />
   </component>
 </project>
