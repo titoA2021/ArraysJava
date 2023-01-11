@@ -26,36 +26,3 @@ public class Main {
         }
     }
 }
-/*
-public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-
-        int arreglo[] = new int[10];
-        int aux,desplaza;
-
-        System.out.println("Llene el arreglo");
-        for (int i = 0; i < 10; i++) {
-            System.out.print("Ingrese un numero: ");
-            arreglo[i] = entrada.nextInt();
-        }
-        aux = arreglo[9];
-
-        System.out.println("\nIngrese posiciones a dezplazar");
-        desplaza = entrada.nextInt();
-
-        for (int i = desplaza; i > 0; i--) {
-
-            for (int j = 8; j >= 0; j--) {
-            arreglo[j+1] = arreglo[j];
-
-            }
-            arreglo[0] = aux;
-            aux = arreglo[9];
-        }
-
-        System.out.println("\nEl arreglo es: ");
-        for (int i:arreglo) {
-            System.out.print(i+" ");
-        }
-    }
- */
